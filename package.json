@@ -7,6 +7,9 @@
 	"engines": {
 		"vscode": "^1.60.0"
 	},
+	"repository": {
+		"url": "https://github.com/AsazuTaiga/watch-package-json"
+	},
 	"categories": [
 		"Other"
 	],
